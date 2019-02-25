@@ -37,10 +37,8 @@ W.W.W.: <a href="http://www.zabiyako.com">http://www.zabiyako.com</a></p>
 
 Run the DosBOX (please download UHRTR.exe first!) and if you have copied the UHRTR.exe file into your drive C: 
 
-type 
-mount d c:\ 
+type mount d c:\  
 press enter key 
-type 
-d: 
+type d: 
 press enter key
 type UHRTR
