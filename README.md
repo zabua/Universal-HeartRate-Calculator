@@ -35,10 +35,9 @@ Your pulse pressure is: 80</p>
 W.W.W.: <a href="http://www.zabiyako.com">http://www.zabiyako.com</a></p>
 <p>My&nbsp;parameters where used in&nbsp;this example:).</p>
 
-Run the DosBOX (please download UHRTR.exe first!) and if you have copied the UHRTR.exe file into your drive C: 
-
-type mount d c:\
-press enter key
-type d:
-press enter key
-type UHRTR
+<p>Run the DosBOX (please download UHRTR.exe first!) and if&nbsp;you have copied the UHRTR.exe file into your drive C:</p>
+<p>type mount d&nbsp;c:\<br />
+press enter key<br />
+type d:<br />
+press enter key<br />
+type UHRTR</p>
