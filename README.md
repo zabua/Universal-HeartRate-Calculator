@@ -39,8 +39,8 @@ Run the DosBOX (please download UHRTR.exe first!) and if you have copied the UHR
 
 type 
 mount d c:\ 
-press <enter> 
+press enter key 
 type 
 d: 
-press <enter> 
-type UHRTR 
+press enter key
+type UHRTR
