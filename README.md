@@ -34,3 +34,13 @@ Your pulse pressure is: 80</p>
 <nobr>E-mail</nobr>: <a href="mailto:denis@zabiyako.com">denis@zabiyako.com</a><br />
 W.W.W.: <a href="http://www.zabiyako.com">http://www.zabiyako.com</a></p>
 <p>My&nbsp;parameters where used in&nbsp;this example:).</p>
+
+Run the DosBOX (please download UHRTR.exe first!) and if you have copied the UHRTR.exe file into your drive C: 
+
+type 
+mount d c:\ 
+press <enter> 
+type 
+d: 
+press <enter> 
+type UHRTR 
